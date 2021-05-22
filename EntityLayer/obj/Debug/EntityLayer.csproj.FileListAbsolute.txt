@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Lenovo\source\repos\MvcProjeK\EntityLayer\obj\Debug\EntityLayer.pdb
